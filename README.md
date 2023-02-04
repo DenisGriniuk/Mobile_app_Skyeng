@@ -21,6 +21,7 @@
 _У нас приложение Skyeng. Сегодня будем с ним знакомиться, а именно, с разделами "Ситуации" и "Видеопрактика"._
 
 ### Все требования можно посмотреть по ссылке: 
+
 >[Требования к разделу «Ситуации»](https://docs.google.com/document/d/1mlzrB6KlNLnJSZLimHPKYdSWo4UJEmYnVrI65TupzBc/edit?usp=sharing)
 
 - [Макет к разделу «Ситуации»](https://www.figma.com/file/EZLffebbT5sSmo2jcSwxFc/%D0%A1%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8?node-id=0%3A1&t=a10BEnon7ojPZiGB-0)
@@ -71,6 +72,7 @@ _У нас есть следующий аналитический свод по 
 ----
 
 - **Анализ требований, основанный на документации к проекту:**
+[Анализ требований](https://docs.google.com/spreadsheets/d/1KZ0_iQuYnGmTq4qz8iFHgSmyYTsq1c7ievxevA0IVKk/edit?usp=sharing)
 
 Пример:
 
@@ -80,38 +82,21 @@ _У нас есть следующий аналитический свод по 
 
 ><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Requirements_2.jpg?raw=true" width="600">
 
+----
 
 ### Были проведены следующие виды тестирования:
 
-- **Smoke-тестирование:**
+- **Функциональное тестирование раздела “Ситуации”:**
 
->![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke.jpg)
+>[Функциональный чек-лист для раздела Ситуации.pdf](https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20%D0%A1%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8.pdf "PDF")
 
-Пример:
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Situation_Checklist.jpg" width="800">
 
->>![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke_testing_1.jpg)
->>![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke_testing_2.jpg)
+- **Функциональное тестирование раздела “Видеопрактика”:**
 
-- **Тестирование новой функциональности:**
+>[Функциональный чек-лист для раздела Видеопрактика.pdf](https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.pdf "PDF")
 
->[Операции с личными событиями.pdf](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf "PDF")
-
-- **Тестирование API:**
-
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/API_1.jpg?raw=true" width="800">
-
-- **Приемочное тестирование:**
-
->![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Acceptance_testing.jpg)
-
-Пример:
-
->>![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/acceptance_testing_1.jpg)
->>![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/acceptance_testing_2.jpg)
-
-- **Регрессионное тестирование:**
-
->[Регресс в итогом проекте.pdf](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%20%D0%B2%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5.pdf "PDF")
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Video_practice_checklist.jpg" width="800">
 
 ---
 
