@@ -30,20 +30,55 @@ _У нас приложение Skyeng. Сегодня будем с ним зн
 - [Макет к разделу «Видеопрактика»](https://www.figma.com/file/g5lXf9DnhIh7eTGOtL306l/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0?node-id=0%3A1&t=HZAFbPnhRcnxW0Xg-0)
 
 ----
-- **Анализ требований, основанный на документации к проекту:**
-
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_1.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_2.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_3.jpg?raw=true" width="600">
-
 - **Декомпозиция в Miro:** 
-[Функционал "Личные события"](https://miro.com/app/board/uXjVPURZ520=/)
+[Мобильное приложение по изучению английского языка "Skyeng"](https://miro.com/app/board/uXjVPtpL05w=/)
 
 Пример:
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Decomposition_1.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Decomposition_2.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Decomposition_3.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/decomposition.jpg?raw=true" width="600">
+<br>
+
+- **Окружение для тестирования** 
+
+_У нас есть следующий аналитический свод по использованию нашего мобильного приложения <br>реальными пользователями:_
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/analysis_1.png?raw=true" width="600">
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/analysis_2.png?raw=true" width="600">
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/analysis_3.png?raw=true" width="600">
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/analysis_4.png?raw=true" width="600">
+
+**На основе представленной аналитики:**
+
+**Язык** - Русский;
+
+**Версия Android** - 10, 11, 12;
+
+**Тип устройства** - Телефон, Планшет;
+
+**Размер экрана** - normal, large,
+
+Статистика используемых разрешений экранов в РФ - [Mobile & Tablet Screen Resolution Stats Russian Federation | Statcounter Global Stats](https://gs.statcounter.com/screen-resolution-stats/mobile-tablet/russian-federation/#monthly-202201-202301-bar) <br>Статья для понимания размеров экранов - [Соответствие квалификаторов размеров экранов с реальными размерами экранов в пикселях](https://dolbodub.blogspot.com/2014/07/blog-post_5.html)
+
+**Выбраны два устройства для тестирования:**
+
+1. Телефон, Android 12, язык - Русский, Размер экрана - normal
+
+2. Планшет, Android 11, язык - Русский, Размер экрана - large
+
+----
+
+- **Анализ требований, основанный на документации к проекту:**
+
+Пример:
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Requirements_1.jpg?raw=true" width="600">
+
+Пример:
+
+><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Requirements_2.jpg?raw=true" width="600">
 
 
 ### Были проведены следующие виды тестирования:
